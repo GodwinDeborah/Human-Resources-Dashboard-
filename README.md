@@ -1,4 +1,4 @@
-# Human-Resources-Dashboard-
+# Human Resources Dashboard
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
@@ -113,3 +113,50 @@ Provides a detailed employee directory with:
 ![Details Dashboard](Images/Details.jpg)
 
 ## 9. Key Insights
+* **Workforce Growth:** Hiring activity appears to exceed employee terminations, suggesting overall workforce growth within the organization.
+
+* **Operational Workforce Dominance:** Operations, Sales, and Customer Service departments appear to represent the largest portions of the workforce.
+
+* **Workforce Centralization:** A significant share of employees is concentrated at headquarters, which may indicate a centralized operational structure.
+
+* **Balanced Gender Representation:** The workforce appears to maintain relatively balanced gender representation across employees.
+
+* **Education and Compensation Patterns:** Employees with higher educational qualifications appear to show stronger performance ratings and higher salary ranges.
+
+* **Compensation Trends:** Leadership and specialized technical roles appear to occupy the higher salary ranges within the dataset.
+
+## 10. Recommendations
+- Conduct deeper turnover analysis by department and location.
+- Perform salary equity assessments across genders and job roles.
+- Explore opportunities to improve workforce distribution across branches and reduce potential HQ concentration.
+- Strengthen leadership succession planning initiatives.
+- Expand employee learning and development programs.
+
+## 11. Assumptions & Limitations
+
+### Assumptions
+- Employee records are accurate and up to date.
+- Salary values represent annual compensation.
+- Performance ratings are standardized across departments.
+
+### Limitations
+- The dataset may not include all external workforce factors.
+- Historical workforce trends are limited to available records.
+- Compensation analysis does not account for bonuses or benefits.
+
+## 12. Future Enhancements
+- Predictive employee attrition analysis
+- Workforce forecasting models
+- Diversity & inclusion analytics
+- Recruitment pipeline tracking
+- Employee satisfaction analysis
+- Real-time HR data integration
+- Advanced KPI benchmarking
+
+## 13. Author
+**Godwin Deborah**
+
+Data Analyst
+- 🔗 [Linkedin](https://www.linkedin.com/in/godwin-deborah-163b10398/?skipRedirect=true)
+- 💼 [GitHub](https://github.com/GodwinDeborah)
+- 📧 [Email](mailto:debbiegodwin001@gmail.com)
