@@ -103,3 +103,13 @@ Provides a detailed employee directory with:
 - Interactive filtering
 - Employee-level drill-down analysis
 - Workforce exploration by department, education, gender, and salary
+
+## 8. Dashboard Screenshots
+
+### Summary Dashboard
+![Summary Dashboard](Images/Summary.jpg)
+
+### Details Dashboard
+![Details Dashboard](Images/Details.jpg)
+
+## 9. Key Insights
