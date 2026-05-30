@@ -67,3 +67,39 @@ Human-Resources-Dashboard/
 ```
 
 ## 6. Dataset Overview
+
+The dataset used for this project is a synthetic Human Resource dataset containing employee records related to demographics, departments, job roles, salaries, education levels, employment status, and performance ratings.
+
+The dataset was generated using ChatGPT and the Python Faker library. It supports workforce analysis across several key areas, including hiring and termination trends, employee demographics, salary distribution, departmental performance, and geographic workforce distribution.
+
+## 7. Dashboard Overview
+
+### Summary Dashboard
+The Summary Dashboard is divided into three analytical sections:
+
+#### Overview
+Provides high-level workforce KPIs including:
+- Total hired employees
+- Active employees
+- Terminated employees
+- Hiring vs termination trends
+- Department distribution
+- Geographic employee distribution
+
+#### Demographics
+Analyzes workforce composition including:
+- Gender distribution
+- Age group analysis
+- Education level distribution
+- Education vs performance relationship
+
+#### Income 
+Focuses on compensation insights including:
+- Salary comparison by education and gender
+- Age vs salary
+  
+### Details Dashboard
+Provides a detailed employee directory with:
+- Interactive filtering
+- Employee-level drill-down analysis
+- Workforce exploration by department, education, gender, and salary
